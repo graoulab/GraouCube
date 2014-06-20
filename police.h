@@ -1,3 +1,5 @@
+// Police based on this link : http://fr.fontriver.com/font/dot_matrix/
+
 
 boolean lettre_A[8][8] = 
 {{0,0,0,1,1,1,0,0},
